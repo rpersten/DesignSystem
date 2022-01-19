@@ -1,0 +1,193 @@
+.icons{
+    margin: 92px 1262px 0px 60px;
+    font-size: 48px;
+    line-height: 130%;
+    color: #424242;
+}
+.touch-target{
+    margin: 32px 0px 12px 61px;
+    font-size: 34px;
+    line-height: 130%;
+    letter-spacing: 0.25px;
+    color: #424242;
+}
+.text-under-icons{
+    margin: 0px 0px 0px 61px;
+    font-size: 16px;
+    line-height: 130%;
+    color: #424242;
+}
+.wrapper-for-settingImg{
+    width: 360px;
+}
+.settingsImg{
+   margin: 84px 0px 0px 113px;
+}
+.lineImg{
+    margin: 32px 0px 0px 77px;
+}
+.text44px{
+    font-size: 14px;
+    line-height: 130%;
+    color: #424242;
+}
+.linetwoImg{
+    margin: -15px 0px 0px 115px;
+}
+.text24px{
+    margin: 0px 0px 0px 154px;
+    font-size: 14px;
+    line-height: 130%;
+    color: #424242;
+}
+.wrapper-for-H1-first{
+    display: flex;
+}
+.wrapper-for-H1-first :first-child {
+    margin-right: 425px;
+}
+.wrapper-for-H1-second{
+    display: flex;
+}
+.wrapper-for-H1-second :first-child {
+    margin-right: 330px;
+}
+.OnTheLight{
+    margin: 81px 0px 0px 60px;
+    font-size: 34px;
+    line-height: 130%;
+    letter-spacing: 0.25px;
+    color: #424242;
+}
+.wrapperFlex{
+    margin: 24px 0px 0px 0px;
+    display: flex;
+}
+.wrapperForTheLight{
+    width: 649px;
+    height: 500px;
+    background: #FFFFFF;
+    border: 1px solid #094A6C;
+    box-sizing: border-box;
+    border-radius: 16px;
+    margin: 0px 0px 0px 60px;
+}
+.outline{
+    margin: 40px 0px 0px 41px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+    color: #424242;
+}
+.calendarImg{
+    margin: 24px 0px 0px 41px;
+}
+.menuImg{
+    margin: 24px 0px 0px 27px;
+}
+.arrowImg{
+    margin: 24px 0px 0px 27px;
+}
+.filled{
+    margin: 147px 0px 0px 41px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+    color: #424242;
+}
+.httpsImg{
+    margin: 24px 0px 0px 41px;
+}
+.incomeImg{
+    margin: 24px 0px 0px 27px;
+}
+.driveImg{
+    margin: 24px 0px 0px 27px;
+}
+.wrapperForTheDark{
+    width: 649px;
+    height: 500px;
+    background: #094A6C;
+    border-radius: 16px;
+    margin: 0px 0px 0px 23px;
+}
+.darkElement{
+    color: #FFFFFF;
+}
+.text-style-in-block{
+    margin: 40px 0px 0px 41px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+    color: #424242;
+}
+.printImg{
+    margin: 0px 52px 0px 37px;
+}
+.iconFill{
+    margin: 14px 0px 0px 108px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+}
+.wrapperStates{
+    margin: -40px 0px 0px 77px;
+    display: flex;
+}
+.iconFillValue{
+    margin: -20px 0px 0px 198px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+}
+.bigFill{
+    margin: 0px 0px 0px 108px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+}
+.iconFillValueOne{
+    margin: -40px 0px 0px 198px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+}
+.iconFillValueTwo{
+    margin: 0px 0px 0px 198px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+}
+.background{
+    background: #EEEEEE;
+    border-radius: 4px;
+}
+.opacity{
+    background: #FFFFFF;
+    opacity: 0.4;
+    border-radius: 4px;
+}
+.backgroundForDark{
+    letter-spacing: 0.15px;
+    color: #FFFFFF;
+}
+.backgroundForDarkImg{
+    background: #44749A;
+    border-radius: 4px;
+}
+.backgroundForDarkImgtwo{
+    background: #002241;
+    border-radius: 4px;
+}
+.opacityDark{
+    opacity: 0.4;
+    border-radius: 4px;
+}

@@ -1,0 +1,308 @@
+/* Scale information grid style start */
+.scale-information * {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+    color: #424242;
+}
+.scale-information{
+    display: grid;
+    margin: 92px 0px 0px 60px;
+    grid-template-columns: 138px 41px 64px 70px 162px;
+}
+.scale-information > div:nth-child(2){
+    margin: 0px 0px 0px 422px;
+}
+.scale-information > div:nth-child(3){
+    margin: 0px 0px 0px 534px;
+}
+.scale-information > div:nth-child(4){
+    width: 70px;
+    margin: 0px 0px 0px 626px;
+}
+.scale-information > div:nth-child(5){
+    width: 162px;
+    margin: 0px 0px 0px 718px;
+}
+/* Scale information grid style end */
+/* Main grid style end */
+.main-grid-table * {
+    padding:10px 15px;
+    font-size: 16px;
+    line-height: 130%;
+    color: #424242;
+    
+}
+.main-grid-table{
+    display: grid;
+    margin: 24px 0px 0px 60px;
+    width: 1060px;
+    height: 980px;
+    grid-template-columns: 536px 60px 19px 70px 31px;
+}
+.main-grid-table > div:nth-child(1){
+    padding: 0px 0px 0px 0px;
+}
+.main-grid-table > div:nth-child(2){
+    padding: 0px 0px 0px 0px;
+    margin: 93px 0px 0px 24px;
+}
+.main-grid-table > div:nth-child(3){
+    padding: 0px 0px 0px 0px;
+    margin: 93px 0px 0px 136px;
+}
+.main-grid-table > div:nth-child(4){
+    padding: 0px 0px 0px 0px;
+    margin: 93px 0px 0px 248px;
+}
+.main-grid-table > div:nth-child(5){
+    padding: 0px 0px 0px 0px;
+    margin: 93px 0px 0px 360px;
+}
+/* Main style end */
+/*Font, Weight, size px, Letter spacing, styles start */
+.padding-between{
+    padding: 42px 0px 0px 0px;
+}
+.h1-style:after {
+    text-align: right;
+    margin: 0px 0px -70px 0px;
+    width: 30px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.h2-style:after {
+    text-align: right;
+    margin: 0px 0px -40px 0px;
+    width: 215px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.h3-style:after {
+    text-align: right;
+    margin: 0px 0px -40px 0px;
+    width: 274px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.h4-style:after {
+    text-align: right;
+    margin: 0px 0px -20px 0px;
+    width: 348px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.h5-style:after {
+    text-align: right;
+    margin: 0px 0px -20px 0px;
+    width: 405px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.h6-style:after {
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 424px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.subtitle1-style:after {
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 466px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.subtitle2-style:after {
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 475px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.body1-style:after{
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 487px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.body2-style:after{
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 493px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.button-style:after{
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 493px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.caption-style:after{
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 493px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.overline-style:after{
+    text-align: right;
+    margin: 0px 0px -10px 0px;
+    width: 493px;
+    content:"";
+    border-top: 3px dotted #9D9D9D;
+    font-size: 16px;
+    line-height: 130%;
+}
+.h1-style{
+    display: flex;
+    align-items: center;
+    font-weight: 300;
+    font-size: 96px;
+    line-height: 130%;
+    letter-spacing: -1.5px;
+}
+.h2-style{
+    display: flex;
+    align-items: center;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 130%;
+    letter-spacing: -0.5px;
+}
+.h3-style{
+    display: flex;
+    align-items: center;
+    font-size: 48px;
+    line-height: 130%;
+}
+.h4-style{
+    display: flex;
+    align-items: center;
+    font-size: 34px;
+    line-height: 130%;
+    letter-spacing: 0.25px;
+}
+.h5-style{
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    line-height: 130%;
+}
+.h6-style{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+}
+.subtitle1-style{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.15px;
+}
+.subtitle2-style{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 130%;
+    letter-spacing: 0.1px;
+}
+.body1-style{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    line-height: 130%;
+}
+.body2-style{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    line-height: 130%;
+}
+.button-style{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 130%;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+}
+.caption-style{
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    line-height: 130%;
+    letter-spacing: 0.4px;
+}
+.overline-style{
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    line-height: 130%;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+.font-letter-style{
+    padding: 35px 0px 0px 0px;
+}
+.font-letter-style1{
+    padding: 110px 0px 0px 0px;
+}
+.font-letter-style2{
+    padding: 90px 0px 0px 0px;
+}
+.font-letter-style3{
+    padding: 68px 0px 0px 0px;
+}
+.font-letter-style4{
+    padding: 54px 0px 0px 0px;
+}
+.font-letter-style5{
+    padding: 50px 0px 0px 0px;
+}
+.font-letter-style6{
+    padding: 44px 0px 8px 0px;
+}
+.font-letter-style7{
+    padding: 32px 0px 8px 0px;
+}
+.font-letter-style9{
+    padding: 38px 0px 8px 0px;
+}
+/*Font, Weight, size px, Letter spacing, styles start */
+
